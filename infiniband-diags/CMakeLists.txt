@@ -39,6 +39,7 @@ ibdiag_programs(
   ibsysstat
   ibtracert
   perfquery
+  pperfquery
   saquery
   sminfo
   smpdump
