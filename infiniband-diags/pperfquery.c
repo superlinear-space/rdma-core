@@ -49,9 +49,9 @@
 
 #include "ibdiag_common.h"
 
-#define MAX_GUIDS 1000
+#define MAX_GUIDS 16384
 #define MAX_LINE_LENGTH 256
-#define MAX_OUTPUT_SIZE 8192
+#define MAX_OUTPUT_SIZE 65536
 #define DEFAULT_CONFIG_FILE "conf/pperfquery.conf"
 #define DEFAULT_OUTPUT_FILE "pperfquery_output.txt"
 
