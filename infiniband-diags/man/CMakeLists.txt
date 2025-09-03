@@ -70,6 +70,7 @@ rdma_man_pages(
   ibtracert.8.in.rst
   infiniband-diags.8.in.rst
   perfquery.8.in.rst
+  pperfquery.8.in.rst
   saquery.8.in.rst
   sminfo.8.in.rst
   smpdump.8.in.rst
